@@ -6,7 +6,7 @@
   # Comandos:
     - :sleeping: "Vai dormir" = encerro o processo.
     - :pencil: "Transcreva" = pego tudo o que me fala e escrevo no console.
-    - :microphone:"Repita" = repito o que você me diz.
+    - :microphone: "Repita" = repito o que você me diz.
     - :clock3: "Quantas horas" = te falo as horas.
     - :calendar: "Data" = te falo dia, mês e ano em que estamos!
     - :notes: "Música" = Toco musiquinhas usando o Spotify, incrível né?
