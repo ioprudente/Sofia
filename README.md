@@ -15,7 +15,7 @@
     
    
     # Comandos matemáticos:
-     - :heavy_minus_sign: "Subtraia" = diga este comando seguiddos dos númeeros da operação e terá o resultado de uma subtração.
+     - :heavy_minus_sign: "Subtraia" = diga este comando seguidos dos númeeros da operação e terá o resultado de uma subtração.
      - :heavy_plus_sign: "Soma" ou "Some" = diga este comando seguidos dos números da operação e terá o resultado de uma soma.
      - :heavy_division_sign: "Divida" = diga este comando seguidos dos números da operação e terá o resultado de uma divisão.
   
